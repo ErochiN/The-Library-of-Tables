@@ -1,5 +1,5 @@
 ﻿/**
- * https://github.com/ErochiN/The-Library-of-Tables 
+ * https://github.com/ErochiN/The-Library-of-Tables
  * @file Table.h
  * @author Ерохин Степан (KwizyOne@outlook.com)
  * @date 2023
