@@ -10,22 +10,7 @@
  * - Гибкого управления данными
  * - Форматированного вывода в консоль
  *
- * Основные классы:
- * - Cells<T> - столбец таблицы (односвязный список элементов)
- * - Table<T> - управление коллекцией столбцов
- *
- * Пример использования:
- * @code
- * Table<int> table;
- * table.AddCells("ID");
- * table.AddCells("Name");
- * table.AddInCells_PushBack(0, 1);
- * table.AddInCells_PushBack(1, "John");
- * table.PrintTable();
- * @endcode
- *
  * @version 1.0
- * @license MIT
  */
 
 #pragma once
